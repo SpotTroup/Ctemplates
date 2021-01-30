@@ -30,3 +30,7 @@ For questions or needs write me: tjark.ziehm@ohioh.de
 TIP: Read the book from the Master of Coding.
 
 Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)
+
+## Extensions:
+
+http://www.figlet.org/
