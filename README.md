@@ -13,7 +13,7 @@ ctrl-Shift+B to start the scripts
 
 ## My Workflow:
 1. download template
-2. using diagrams -> flowchart for brainstomring the code needs
+2. using diagrams -> flowchart for brainstomring the code needs ( https://app.diagrams.net/ )
 3. write single function (steps) that are needed generalizes to the main 
 4. write the code :-)
 5 destructure to the declaration in the header file bib.h and the function code to the bib.c
