@@ -1,4 +1,4 @@
-# Ctemplates
+# Ctemplates for visual Studio Code
 
 ctrl-Shift+B to start the scripts
 
@@ -19,6 +19,10 @@ ctrl-Shift+B to start the scripts
 5 destructure to the declaration in the header file bib.h and the function code to the bib.c
 6. Debug again and again
 
-"Happy coding"
+"stay opensource"
+"stay free"
+"stay healty"
+/w
+"Happy coding" 
 
 For questions or needs write me: tjark.ziehm@ohioh.de
